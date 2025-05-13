@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nirav Jangale</h1>
-<h3 align="center">A passionate Full stack Developer with multiple technologies.</h3>
+<h3 align="center">A passionate Full stack Developer</h3>
 
-- 🔭 I’m currently working on **School of Scholar**
+- 🌱 I’m currently learning **React,Solidity**
 
-- 🌱 I’m currently learning **React,Wordpress**
+- 👯 I’m looking to collaborate on **MERN stack and Blockchain Projects**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 🤝 I’m looking for help with **Blockchain**
 
-- 🤝 I’m looking for help with **Wordpress**
-
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Poetry**
 
 - 📫 How to reach me **itsniravjangale@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Nirav-Jangale/Resume/raw/main/Nirav's%20Resume%20(1).pdf](https://github.com/Nirav-Jangale/Resume/raw/main/Nirav's%20Resume%20(1).pdf)
 
-- ⚡ Fun fact **I love to spent time alone**
+- ⚡ Fun fact **I love to write poetry*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
